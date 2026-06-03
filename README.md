@@ -42,13 +42,19 @@ The repository provides:
 
 These resources consolidate benchmark results, literature metadata, and reliability challenges discussed throughout the survey.
 
-## Scripts
 
-Utility scripts are provided for:
+- ## Analysis Scripts
 
-- Literature corpus statistics
-- Benchmark dataset analysis
-- Weakness annotation analysis
+The repository includes scripts for:
+
+- Literature corpus analysis
+- Citation statistics
+- Benchmark aggregation
+- Benchmark gap analysis
+- Weakness analysis
+- Trend analysis
+- Visualization generation
+- Summary report creation
 
 Location:
 
