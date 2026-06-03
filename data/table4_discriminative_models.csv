@@ -1,0 +1,8 @@
+Model,Year,Params,Pretraining,IN1K,ADE20K,COCO_mIoU,SA23
+ViT-L/16,2020,307M,Supervised,76.5,,,
+CLIP (ViT-L/14),2021,428M,CL (400M pairs),76.2,,,
+DINO (ViT-B/16),2021,86M,SSL,78.2,39.2,,
+MAE (ViT-L),2022,307M,Masked autoenc.,85.9,48.1,,
+DINOv2 (ViT-g/14),2023,1.1B,SSL (142M),86.5,49.0,,
+SAM (ViT-H),2023,636M,CL (SA-1B),,,85-90,58.1
+SAM2 (Large),2024,224M,MAE+prompt (SA-V),,,,58.9

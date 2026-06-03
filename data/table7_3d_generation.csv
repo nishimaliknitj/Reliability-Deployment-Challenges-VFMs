@@ -1,0 +1,9 @@
+Method,Year,Type,CLIP_S,PSNR,Optim,Time
+DreamFusion,2022,T2-3D,0.311,,O,1.5 h
+CLIP-Mesh,2022,T2-3D,0.291,,O,45 min
+Zero-1-to-3,2023,I2-3D,,19.76,O,30 min
+Shap-E,2023,T2/I2-3D,0.290,,FF,13 s
+One-2-3-45,2023,I2-3D,,21.3,FF,45 s
+Magic3D,2023,T2-3D,0.322,,O,40 min
+Instant3D,2023,T2-3D,0.340,,FF,20 s
+VLM3D,2025,T2-3D,0.335,,O,35 min

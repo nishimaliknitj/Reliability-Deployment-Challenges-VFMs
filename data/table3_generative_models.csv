@@ -1,0 +1,11 @@
+Model,Year,Params,FID,CLIP_Score,T2I,T2V,T23D
+GLIDE,2021,3.5B,12.24,0.272,Yes,No,No
+LDM (SD v1.4),2022,860M,12.63,0.255,Yes,No,No
+DALL-E 2,2022,3.5B,10.39,0.314,Yes,No,No
+Imagen,2022,3.4B,7.27,0.369,Yes,No,No
+Stable Diffusion XL,2023,2.6B,8.76,0.330,Yes,No,No
+DALL-E 3,2023,N/A,N/A,0.368,Yes,No,No
+DreamFusion,2023,N/A,N/A,N/A,No,No,Yes
+Zero-1-to-3,2023,860M,N/A,N/A,No,No,Yes
+Sora,2024,N/A,N/A,N/A,No,Yes,No
+Stable Diffusion 3,2024,2.0B,N/A,0.352,Yes,No,No

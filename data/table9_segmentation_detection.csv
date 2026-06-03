@@ -1,0 +1,9 @@
+Method,Year,Task,Backbone,COCO_mAP,ADE20K_mIoU,SA23
+Mask2Former,2022,Seg,Swin-L,,57.7,
+FC-CLIP,2023,Seg,ConvNeXt,26.8 PQ,14.8,
+DINOv2,2023,Seg,ViT-g/14,,49.0,
+SAM,2023,Seg,ViT-H,59.0,,58.1
+SAM2,2024,Seg,Hiera-L,,,58.9
+Grounding DINO,2023,Det,Swin-T,52.5,,
+Grounding DINO 1.5,2024,Det,EdgeSAM,54.3,,
+Grounded-SAM,2024,Seg+Det,DINO+SAM,48.7 SegInW,,

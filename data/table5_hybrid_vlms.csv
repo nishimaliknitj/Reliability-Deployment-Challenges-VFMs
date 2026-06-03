@@ -1,0 +1,7 @@
+Model,Year,Params,Visual_Encoder,VQAv2,MMBench,POPE
+BLIP-2 (Vicuna-13B),2023,13B,EVA-ViT-g,65.0,,85.3
+InstructBLIP (Vicuna-7B),2023,7B,EVA-ViT-g,,36.0,88.6
+LLaVA-1.5 (Vicuna-7B),2023,7B,CLIP ViT-L/14,78.5,64.3,85.9
+LLaVA-1.5 (Vicuna-13B),2023,13B,CLIP ViT-L/14,80.0,67.7,85.9
+GPT-4V,2023,N/A,N/A,N/A,75.1,
+Gemini Pro Vision,2023,N/A,N/A,71.2,73.6,
