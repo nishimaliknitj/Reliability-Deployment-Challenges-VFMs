@@ -1,0 +1,19 @@
+W001,CLIP,Fine-Grained Understanding,Fails to capture subtle object attributes,High,Fine-grained recognition,[93],Fine-grained contrastive training
+W002,CLIP,Spatial Reasoning,Weak spatial relationship modeling,High,3D scene understanding,[88],Spatial-aware pretraining
+W003,CLIP,Center Bias,Attention concentrated near image center,Medium,Detection and localization,[97],Debiasing objectives
+W004,SAM,Boundary Precision,Boundary ambiguity in complex scenes,Medium,Segmentation quality,[5],Prompt refinement
+W005,SAM,Medical Generalization,Performance degradation in medical domains,High,Medical imaging,[79],Domain adaptation
+W006,SAM,Video Consistency,Temporal inconsistency across frames,Medium,Video segmentation,[99],Temporal modeling
+W007,SAM2,Medical Adaptation,Limited validation in medical workflows,Medium,Healthcare deployment,[84],Medical fine-tuning
+W008,DINOv2,3D Awareness,Limited geometric understanding,High,3D reconstruction,[11],3D-aware objectives
+W009,DINOv2,Depth Robustness,Sensitivity to out-of-distribution depth cues,Medium,Depth estimation,[64],Domain-diverse training
+W010,LLaVA,Spatial Reasoning,Weak reasoning over spatial relations,High,VQA and robotics,[96],Structured reasoning modules
+W011,LLaVA,Hallucination,Generates unsupported visual claims,High,Decision support,[102],Grounded decoding
+W012,GPT-4V,Object Hallucination,Incorrect object reporting,High,Vision-language tasks,[103],Verification pipelines
+W013,GPT-4V,Spatial Consistency,Spatial inconsistency errors,High,Navigation and planning,[88],World-model integration
+W014,Stable Diffusion,Bias,Stereotypical demographic generation,High,Content generation,[101],Bias-aware alignment
+W015,Stable Diffusion,Hallucination,Generation of unrealistic details,Medium,Creative applications,[102],Constraint-guided generation
+W016,DreamFusion,View Consistency,Inconsistent multi-view geometry,High,3D content creation,[100],Structure-guided optimization
+W017,NeRF,Compute Cost,Very high training cost,High,Real-time deployment,[125],Acceleration frameworks
+W018,3DGS,Memory Usage,Large memory footprint,Medium,Large-scale scenes,[15],Compression strategies
+W019,VLMs,Robustness,Performance degradation under distribution shift,High,General deployment,[12],Robustness-oriented training
