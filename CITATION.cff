@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+title: "Reliability and Deployment Challenges of Visual Foundation Models in Visual Computing: A Task-Centric Survey"
+message: "If you use this repository, please cite it using the metadata below."
+
+authors:
+
+* family-names: "Madaan"
+  given-names: "Nishi"
+
+* family-names: "Malik"
+  given-names: "Rahul"
+
+* family-names: "Kumar"
+  given-names: "Alok"
+
+* family-names: "Upadhaya"
+  given-names: "Utsav"
+
+repository-code: "https://github.com/nishimaliknitj/Reliability-Deployment-Challenges-VFMs"
+
+keywords:
+
+* visual foundation models
+* visual computing
+* computer vision
+* foundation models
+* neural rendering
+* multimodal learning
+* survey
+
+license: "CC-BY-4.0"
+
+version: "1.0.0"
+
+date-released: 2026-06-03
