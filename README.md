@@ -32,6 +32,16 @@ docs/       → Methodology and reproducibility documents
 figures/    → Figures used in the manuscript
 scripts/    → Utility scripts
 
+## Benchmark Resources
+
+The repository provides:
+
+- benchmark_master.csv
+- literature_corpus.csv
+- weakness_annotations.csv
+
+These resources consolidate benchmark results, literature metadata, and reliability challenges discussed throughout the survey.
+
 ## Contact
 
 Rahul Malik  
