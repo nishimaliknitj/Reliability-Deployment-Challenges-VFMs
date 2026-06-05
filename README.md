@@ -1,7 +1,17 @@
-# Reliability-Deployment-Challenges-VFMs
-Reliability and Deployment Challenges of Visual Foundation Models in Visual Computing: A Task-Centric Survey
+<div align="center">
 
-# Reliability and Deployment Challenges of Visual Foundation Models in Visual Computing: A Task-Centric Survey
+# 🚀 Reliability-Deployment-Challenges-VFMs
+
+### Reliability and Deployment Challenges of Visual Foundation Models in Visual Computing: A Task-Centric Survey
+
+[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)]()
+[![License](https://img.shields.io/badge/License-MIT-green.svg)]()
+[![Status](https://img.shields.io/badge/Status-Active-success.svg)]()
+[![Survey](https://img.shields.io/badge/Paper-Survey-orange.svg)]()
+[![Visual Computing](https://img.shields.io/badge/Domain-Visual_Computing-red.svg)]()
+[![Foundation Models](https://img.shields.io/badge/AI-Foundation_Models-purple.svg)]()
+
+
 
 ## Authors
 - Nishi Madaan
