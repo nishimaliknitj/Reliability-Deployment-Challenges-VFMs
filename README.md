@@ -2,7 +2,7 @@
 
 # 🚀 Reliability-Deployment-Challenges-VFMs
 
-### Reliability and Deployment Challenges of Visual Foundation Models in Visual Computing: A Task-Centric Survey
+### Visual Foundation Models in Computational Engineering Applications: A State-of-the-Art Review of Architectures, Deployment Reliability, and Benchmark Methods
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)]()
 [![License](https://img.shields.io/badge/License-MIT-green.svg)]()
