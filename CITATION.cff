@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: "Reliability and Deployment Challenges of Visual Foundation Models in Visual Computing: A Task-Centric Survey"
+title: "Visual Foundation Models in Computational Engineering Applications: A State-of-the-Art Review of Architectures, Deployment Reliability, and Benchmark Methods"
 message: "If you use this repository, please cite it using the metadata below."
 
 authors:
@@ -10,11 +10,7 @@ authors:
 * family-names: "Malik"
   given-names: "Rahul"
 
-* family-names: "Kumar"
-  given-names: "Alok"
 
-* family-names: "Upadhaya"
-  given-names: "Utsav"
 
 repository-code: "https://github.com/nishimaliknitj/Reliability-Deployment-Challenges-VFMs"
 
