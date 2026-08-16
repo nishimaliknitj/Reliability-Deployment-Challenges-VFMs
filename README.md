@@ -2,7 +2,7 @@
 
 # 🚀 Reliability-Deployment-Challenges-VFMs
 
-### Visual Foundation Models in Computational Engineering Applications: A State-of-the-Art Review of Architectures, Deployment Reliability, and Benchmark Methods
+### Visual Foundation Models: A State-of-the-Art Review of Architectures, Deployment Reliability, and Benchmark Methods
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)]()
 [![License](https://img.shields.io/badge/License-MIT-green.svg)]()
@@ -21,7 +21,7 @@
 
 This repository accompanies our survey paper:
 
-Visual Foundation Models in Computational Engineering Applications: A State-of-the-Art Review of Architectures, Deployment Reliability, and Benchmark Methods
+Visual Foundation Models: A State-of-the-Art Review of Architectures, Deployment Reliability, and Benchmark Methods
 
 The repository contains:
 
